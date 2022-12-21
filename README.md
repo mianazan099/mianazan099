@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @mianazan099
 - 👀 I’m interested in Being a Full-Stack Developer.
 - 🌱 I’m currently learning JavaScript, Node.js, React.js.
+- 📫 How to reach me: mianazan024@gmail.com
